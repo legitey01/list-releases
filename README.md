@@ -8,5 +8,5 @@ Go to the [Releases](../../releases) tab to download the latest version for your
 
 | Platform | File |
 |---|---|
-| Windows (x64) | `List-Setup-x64.exe` |
+| Windows (EXE) | `List-Setup.exe` |
 
